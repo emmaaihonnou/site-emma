@@ -1,0 +1,13 @@
+@import url('components/avatar.css');
+@import url('components/banner.css');
+@import url('components/button.css');
+@import url('components/card_category.css');
+@import url('components/card_product.css'); 
+@import url('components/navbar.css');
+
+body{
+  margin:  20px;
+}
+.margin-b-20{
+  margin-bottom: 20px;
+}
